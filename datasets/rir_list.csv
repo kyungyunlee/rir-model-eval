@@ -1,0 +1,8 @@
+path,filename,rt,real
+datasets/rir/MIT_IR_Survey,h110_Office_MeetingRoom_1txts.wav,0.2,TRUE
+datasets/rir/MIT_IR_Survey,h001_Bedroom_65txts.wav,0.3,TRUE
+datasets/rir/MIT_IR_Survey,h027_Classroom_8txts.wav,0.4,TRUE
+datasets/rir/MIT_IR_Survey,h163_Bathroom_1txts.wav,0.5,TRUE
+datasets/rir/MIT_IR_Survey,h229_Office_Lobby_1txts.wav,0.6,TRUE
+datasets/rir/MIT_IR_Survey,h025_Diningroom_8txts.wav,0.9,TRUE
+datasets/rir/MIT_IR_Survey,h042_Hallway_ElementarySchool_4txts.wav,1.6,TRUE
