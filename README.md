@@ -1,5 +1,7 @@
-# RIR Model Evaluation (WIP)
+# RIR Model Evaluation
 
+### 0. Listening test sample
+One full set of listening test used in the paper is available as an example. Download from this [link](https://www.dropbox.com/scl/fo/4mbtjzpim9dpyotae1dua/ADUCu4I2CQyLEd3lY6OGzxU?rlkey=kuf9funvjow89us47ppbv8bzl&st=u7ve4jr5&dl=0).
 
 ### 1. Setup
 Create and activate the conda env and install the current repo. 
